@@ -12,6 +12,7 @@
 - Completed the introductory NumPy learning session.
 - Created `numpy_basics.ipynb` with examples and independent exercises.
 - Completed all exercises in Imperial `lecture1/lecture1.ipynb`.
+- Completed all exercises in Imperial `lecture2/lecture2.ipynb`.
 
 ### Notes
 
@@ -35,6 +36,14 @@
     columns, grouped aggregation, missing-value handling, sorting, duplicate
     handling, date fields, and pivot tables.
   - Confirmed prior familiarity with core Python functions and Matplotlib.
+  - Practised list mutation, `enumerate`, `zip`, nested lists, tuples, and
+    conditional expressions.
+  - Implemented numerical loops for factorials, path lengths, prime sieving,
+    and polygon-based approximation.
+  - Used NumPy vectorisation, slicing, Boolean indexing, reshaping, and
+    multidimensional array traversal.
+  - Implemented matrix-vector and matrix-matrix multiplication from their
+    index definitions and compared them with NumPy's `@` operator.
 - Git:
 - Mathematics:
 
@@ -46,6 +55,6 @@
 
 ### Next session
 
-1. Complete Imperial presessional Lecture 2.
-2. Continue through compulsory Lectures 3-5.
+1. Complete Imperial presessional Lecture 3.
+2. Continue through compulsory Lectures 4-5.
 3. Record any concepts that need revision after each lecture.
