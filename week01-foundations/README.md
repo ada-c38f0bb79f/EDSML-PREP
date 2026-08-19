@@ -2,8 +2,8 @@
 
 ## Deliverable
 
-Complete the presessional Python, Git, and mathematics preparation, and leave
-this repository ready for reproducible scientific work.
+Complete the presessional Python, Git, Bash, and mathematics preparation, and
+leave this repository ready for reproducible scientific work.
 
 ## Checklist
 
@@ -12,6 +12,7 @@ this repository ready for reproducible scientific work.
 - [x] Install or verify a supported Python 3 environment.
 - [x] Create `.venv` and install `requirements.txt`.
 - [x] Launch JupyterLab successfully.
+- [ ] Confirm access to the Imperial EDSML presessional JupyterHub.
 - [x] Configure `git config user.name` and `git config user.email`.
 - [x] Run the automated environment check.
 
@@ -34,20 +35,63 @@ Do not rename exercise variables, functions, or classes, and do not edit the
 PyBryt or `assert` test cells. The Imperial exercise item is complete when all
 compulsory exercise tests in lectures 1-5 pass.
 
+The official page lists the exercises as due on 3 October 2026. Imperial says
+it will provide the submission repository during induction week, with details
+on 30 September; this preparation repository is not that official submission
+repository.
+
+### Command line
+
+- [ ] Complete the Imperial-linked Software Carpentry Bash lesson.
+- [ ] Complete the short Linux command-line practice test.
+- [ ] Practise navigation, file operations, pipes, redirection, wildcards, and
+      searching from a shell.
+- [ ] Record whether course work will use JupyterHub, WSL, or another Unix shell
+      locally.
+
 ### Git
 
 - [x] Explain working tree, staging area, commits, branches, and remotes.
 - [x] Make a focused commit from the command line.
 - [x] Create and merge a short-lived practice branch.
 - [x] Inspect changes with `git status`, `git diff`, and `git log`.
+- [ ] Finish the full Imperial-modified Software Carpentry Git lesson,
+      including collaboration, conflicts, licensing, citation, and hosting.
+- [x] Use the Imperial-issued GitHub username for the course account.
 
 ### Mathematics
 
 - [ ] Review vectors, matrices, norms, inner products, and projections.
-- [ ] Review derivatives, gradients, Jacobians, and the chain rule.
-- [ ] Review probability distributions, expectation, variance, and covariance.
+- [ ] Review matrix multiplication, determinants, inverses, and linear systems.
 - [ ] Review eigenvalues/eigenvectors and their numerical interpretation.
+- [ ] Review differentiation, integration, extrema, and Taylor series.
+- [ ] Review partial derivatives, gradients, vector calculus, and the chain
+      rule.
+- [ ] Review first- and higher-order ODEs, including separation of variables
+      and integrating factors.
+- [ ] Review basic PDE concepts, including diffusion, Laplace/Poisson, and wave
+      equations.
+- [ ] Review probability, conditional probability, expectation, variance, and
+      covariance.
+- [ ] Review basic trigonometry, algebra, and geometry where needed.
+- [ ] Attempt the official mathematics self-check questions before deciding
+      which topics need deeper revision.
 - [ ] Write down topics that need deeper work in `learning-log.md`.
+
+## Official references
+
+- EDSML pre-induction home:
+  https://ese-msc.github.io/preinduction/edsml/markdown/EDSMLIntro.html
+- Mathematics self-check and revision:
+  https://ese-msc.github.io/preinduction/edsml/markdown/mathsintro.html
+- Python material and submission note:
+  https://ese-msc.github.io/preinduction/edsml/notebooks/python.html
+- Command-line preparation:
+  https://ese-msc.github.io/preinduction/edsml/markdown/bashintro.html
+- Imperial-modified Git lesson:
+  https://ese-msc.github.io/git-novice/
+- Optional presessional reading list:
+  https://ese-msc.github.io/preinduction/edsml/markdown/edsml_reading_list.html
 
 ## Environment check
 

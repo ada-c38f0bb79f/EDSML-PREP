@@ -5,8 +5,8 @@ Learning programme.
 
 ## Week 1: Foundations and Tooling
 
-**Goal:** complete the Python, Git, and mathematics preparation, then leave a
-reproducible repository that is ready for the later numerical and ML projects.
+**Goal:** complete the Python, Git, Bash, and mathematics preparation, then
+leave a reproducible repository ready for later numerical and ML projects.
 
 ### Start here
 
@@ -33,8 +33,9 @@ reproducible repository that is ready for the later numerical and ML projects.
 Later projects use a few additional scientific packages. Install them when
 starting Week 2 with `python -m pip install -r requirements-projects.txt`.
 
-The complete eight-week sequence and deliverables are tracked in
-[`ROADMAP.md`](ROADMAP.md).
+The official Imperial pre-induction requests are tracked separately in
+[`OFFICIAL-PREINDUCTION.md`](OFFICIAL-PREINDUCTION.md). The optional personal
+eight-week sequence is tracked in [`ROADMAP.md`](ROADMAP.md).
 
 ## Repository structure
 
@@ -53,6 +54,7 @@ The complete eight-week sequence and deliverables are tracked in
 |-- tests/                # Automated checks
 |-- requirements.txt
 |-- requirements-projects.txt
+|-- OFFICIAL-PREINDUCTION.md
 |-- ROADMAP.md
 `-- README.md
 ```
