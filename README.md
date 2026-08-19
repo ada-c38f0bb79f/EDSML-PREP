@@ -30,15 +30,30 @@ reproducible repository that is ready for the later numerical and ML projects.
 3. Work through the checklist in
    [`week01-foundations/README.md`](week01-foundations/README.md).
 
+Later projects use a few additional scientific packages. Install them when
+starting Week 2 with `python -m pip install -r requirements-projects.txt`.
+
+The complete eight-week sequence and deliverables are tracked in
+[`ROADMAP.md`](ROADMAP.md).
+
 ## Repository structure
 
 ```text
 .
 |-- week01-foundations/   # Python, Git, maths, and environment checks
+|-- week02-environmental-data/
+|-- week03-numerical-methods/
+|-- week04-heat-equation/
+|-- week05-inverse-problem/
+|-- week06-environmental-ml/
+|-- week07-scientific-ml/
+|-- week08-portfolio/
 |-- notebooks/            # Reusable exploratory notebooks
 |-- src/                  # Reusable Python modules
 |-- tests/                # Automated checks
 |-- requirements.txt
+|-- requirements-projects.txt
+|-- ROADMAP.md
 `-- README.md
 ```
 
@@ -53,4 +68,3 @@ data sources, environment, commands, results, and limitations.
 - Put reusable logic in `src/`; use notebooks for exploration and explanation.
 - Record dependencies in `requirements.txt`.
 - Run `python -m pytest` before considering a deliverable complete.
-

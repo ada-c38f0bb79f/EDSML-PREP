@@ -1,0 +1,4 @@
+# Install from Week 2 onward; Week 7 documents its optional PINN dependencies.
+netCDF4
+scikit-learn
+xarray
